@@ -1,0 +1,36 @@
+.main {
+    text-align: center;
+    margin : 0 auto;
+    margin-top: 30px;
+}
+
+/* .result {
+    margin-top: 10px;
+    width: 150px;
+    height: 30px;
+    background-color:lightgray;
+    color:maroon;
+    border: 2px solid maroon;
+} */
+
+.btn {
+    background-color:lightgray;
+    color: maroon;
+    margin-top: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    font-size: 20px;
+    box-shadow: 1px 1px grey;
+    width: 50px;
+    height: 40px;
+}
+
+.clearbtn {
+    width: 200px;
+    height: 30px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    background-color: grey;
+    color:maroon;
+    font-weight: bold;
+}
